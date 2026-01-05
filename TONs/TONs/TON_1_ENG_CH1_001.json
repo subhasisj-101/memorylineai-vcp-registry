@@ -1,1 +1,69 @@
+{
+  "ton_id": "TON_1_ENG_CH1_001",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Chapter 1",
+  "concept_name": "Alphabet Recognition – Letter A",
 
+  "source": {
+    "board": "NCERT",
+    "class": 1,
+    "subject": "English",
+    "chapter": "Chapter 1",
+    "edition": "2023",
+    "page_range": "1-2",
+    "reference_id": "NCERT1ENG2023_CH1_P1_2"
+  },
+
+  "prerequisites": [],
+
+  "difficulty": 1,
+  "misconception_tags": [
+    "confuse_A_with_H",
+    "reverse_writing_A"
+  ],
+
+  "adaptive_profile": {
+    "base_depth": 1,
+    "max_depth": 3,
+    "min_pace_sec": 15,
+    "max_pace_sec": 45,
+    "default_teaching_order": ["intuition","concept","example","practice"]
+  },
+
+  "nested_ladder": ["intuition","concept","example","practice"],
+
+  "scaffold_policy": {
+    "fade_after_mastery": 0.7,
+    "reinforce_below": 0.5,
+    "max_scaffold_rounds": 4
+  },
+
+  "bloom_map": {
+    "remember": ["identify","name"],
+    "understand": ["say","point"],
+    "apply": ["trace","circle"],
+    "analyze": ["differentiate"],
+    "evaluate": ["check"],
+    "create": ["write"]
+  },
+
+  "socratic_triggers": {
+    "on_low_mastery": true,
+    "on_repeated_error": true,
+    "question_templates": [
+      "Which letter looks like this?",
+      "Can you find another A around you?",
+      "What happens if we turn A upside down?"
+    ]
+  },
+
+  "context_scope": {
+    "allowed_neighbors": ["TON_1_ENG_CH1_002"],
+    "block_out_of_scope": true,
+    "fallback_ton": "TON_1_ENG_CH1_001"
+  },
+
+  "skill_tags": ["letter_recognition","fine_motor_skills"],
+  "career_links": ["literacy_foundation"]
+}
