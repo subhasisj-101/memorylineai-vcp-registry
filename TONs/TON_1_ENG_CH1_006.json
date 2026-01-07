@@ -1,1 +1,37 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_006",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Nose",
+  "atomic_concept": "We use our nose to smell and breathe.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "The nose helps us smell things.",
+    "concept": "We smell and breathe using our nose.",
+    "example": "I smell a flower with my nose.",
+    "application": "Close one nostril and breathe slowly."
+  },
+  "misconception_fit": [
+    "We do not smell with our ears.",
+    "Nose is not used to see."
+  ],
+  "socratic_prompts": [
+    "Which body part helps you smell?",
+    "Can you breathe without using your nose?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Nose smells.",
+    "easy": "We smell with nose.",
+    "medium": "We use our nose to smell and breathe.",
+    "hard": "The nose helps us smell and take in air.",
+    "master": "The nose is a sense organ used for smelling and breathing."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_005"
+  ]
+}
