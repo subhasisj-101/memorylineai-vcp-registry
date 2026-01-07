@@ -1,1 +1,14 @@
-
+{
+  "modes": {
+    "very_easy": ["atomic_concept"],
+    "easy": ["atomic_concept", "nested_learning.example"],
+    "medium": ["atomic_concept", "nested_learning.example", "misconception_fit"],
+    "hard": ["atomic_concept", "nested_learning.example", "misconception_fit", "socratic_prompts"],
+    "master": [
+      "atomic_concept",
+      "nested_learning.concept",
+      "misconception_fit",
+      "socratic_prompts"
+    ]
+  }
+}
