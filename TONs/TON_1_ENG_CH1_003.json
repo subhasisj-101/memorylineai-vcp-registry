@@ -1,1 +1,74 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_003",
+  "class": 1,
+  "subject": "English",
+  "chapter": 1,
+  "concept_title": "Hand",
+  "concept_type": "Body Part",
+  "difficulty_level": "Very Easy",
+  "source": {
+    "board": "NCERT",
+    "class": 1,
+    "chapter": 1,
+    "language": "English",
+    "reference": "AEMR101"
+  },
+  "learning_objectives": [
+    "Identify the hand as a body part.",
+    "Understand that hands help us do many activities.",
+    "Use the word 'hand' in simple sentences."
+  ],
+  "core_explanation": {
+    "simple_definition": "A hand is a part of our body. We use our hands to hold things, write, eat and play.",
+    "expanded_definition": "Each person has two hands. Our hands help us do many daily activities like clapping, drawing, picking up toys and helping others."
+  },
+  "examples": [
+    "I write with my hand.",
+    "I eat my food with my hand.",
+    "I clap my hands when I am happy."
+  ],
+  "nested_learning": {
+    "intuition": "Look at your hand. Move your fingers.",
+    "concept": "This part is called a hand.",
+    "example": "You hold your pencil with your hand.",
+    "application": "Use your hand to wave at your friend.",
+    "practice": "Show your hand to your teacher."
+  },
+  "socratic_prompts": [
+    "What do you use to hold your pencil?",
+    "Can you clap without using your hands?",
+    "How many hands do you have?"
+  ],
+  "check_questions": [
+    {
+      "question": "Which body part helps you write?",
+      "options": ["Hand", "Leg", "Eye"],
+      "answer": "Hand"
+    },
+    {
+      "question": "How many hands do you have?",
+      "options": ["One", "Two", "Three"],
+      "answer": "Two"
+    }
+  ],
+  "misconceptions": [
+    {
+      "statement": "We use legs to write.",
+      "correction": "We use hands to write, not legs."
+    }
+  ],
+  "contextual_links": [
+    "Next concept: Leg",
+    "Previous concept: Head"
+  ],
+  "bloom_mapping": {
+    "remember": "Name the body part: hand.",
+    "understand": "Tell what your hand does.",
+    "apply": "Use your hand to hold a book."
+  },
+  "revision_tags": [
+    "body-parts",
+    "hand",
+    "class1-basics"
+  ]
+}
