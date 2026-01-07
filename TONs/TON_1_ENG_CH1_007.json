@@ -1,1 +1,37 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_007",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Mouth",
+  "atomic_concept": "We use our mouth to eat and talk.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "The mouth helps us eat food and speak.",
+    "concept": "We eat and talk using our mouth.",
+    "example": "I eat my food with my mouth.",
+    "application": "Say your name loudly."
+  },
+  "misconception_fit": [
+    "We do not eat with our ears.",
+    "Mouth is not used to see."
+  ],
+  "socratic_prompts": [
+    "Which body part helps you eat?",
+    "Can you talk without opening your mouth?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Mouth eats.",
+    "easy": "We eat with mouth.",
+    "medium": "We use our mouth to eat and talk.",
+    "hard": "The mouth helps us eat food and speak.",
+    "master": "The mouth is a body part used for eating and speaking."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_006"
+  ]
+}
