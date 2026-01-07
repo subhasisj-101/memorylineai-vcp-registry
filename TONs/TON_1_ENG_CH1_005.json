@@ -1,1 +1,37 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_005",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Ear",
+  "atomic_concept": "We use our ears to hear.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "Ears help us hear sounds.",
+    "concept": "We hear using our ears.",
+    "example": "I hear music with my ears.",
+    "application": "Close your eyes and listen to a sound."
+  },
+  "misconception_fit": [
+    "We do not hear with our eyes.",
+    "Ears are not used to smell."
+  ],
+  "socratic_prompts": [
+    "Which body part helps you hear?",
+    "Can you hear when your ears are covered?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Ears hear.",
+    "easy": "We hear with ears.",
+    "medium": "We use our ears to hear.",
+    "hard": "Ears help us hear sounds around us.",
+    "master": "Ears are sense organs used for hearing."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_004"
+  ]
+}
