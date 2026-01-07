@@ -1,1 +1,38 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_003",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Head",
+  "atomic_concept": "Our head moves from side to side.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "We can turn our head left and right.",
+    "concept": "Our head moves from side to side.",
+    "example": "I move my head when I say no.",
+    "application": "Move your head from left to right."
+  },
+  "misconception_fit": [
+    "We do not walk with our head.",
+    "The head is not used to clap."
+  ],
+  "socratic_prompts": [
+    "Which part of your body moves side to side?",
+    "Can you shake your head?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Head moves.",
+    "easy": "Our head moves.",
+    "medium": "Our head moves from side to side.",
+    "hard": "We can move our head left and right.",
+    "master": "The head is the top body part that can move side to side."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_001",
+    "TON_1_ENG_CH1_002"
+  ]
+}
