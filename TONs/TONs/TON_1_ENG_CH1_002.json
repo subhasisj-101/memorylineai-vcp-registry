@@ -1,1 +1,37 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_002",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Leg",
+  "atomic_concept": "We use our legs to walk.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "Legs help us go from one place to another.",
+    "concept": "We walk using our legs.",
+    "example": "I walk to school using my legs.",
+    "application": "Touch your legs and say: These are my legs."
+  },
+  "misconception_fit": [
+    "We do not walk with our hands.",
+    "Legs are not used to clap."
+  ],
+  "socratic_prompts": [
+    "Which body part helps you walk?",
+    "Can you walk without using your legs?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Legs help us walk.",
+    "easy": "We walk with legs.",
+    "medium": "We use our legs to walk.",
+    "hard": "Legs help us walk and move.",
+    "master": "Legs are body parts used for walking and running."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_001"
+  ]
+}
