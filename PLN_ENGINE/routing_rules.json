@@ -1,1 +1,45 @@
-
+{
+  "Class1_English_TwoLittleHands": {
+    "hand": {
+      "which part helps me clap": "TON_1_ENG_CH1_001",
+      "i clap with": "TON_1_ENG_CH1_001",
+      "what do i use to clap": "TON_1_ENG_CH1_001",
+      "hands": "TON_1_ENG_CH1_001"
+    },
+    "leg": {
+      "which part helps me walk": "TON_1_ENG_CH1_002",
+      "i walk with": "TON_1_ENG_CH1_002",
+      "what do i use to walk": "TON_1_ENG_CH1_002",
+      "legs": "TON_1_ENG_CH1_002"
+    },
+    "head": {
+      "which part moves side to side": "TON_1_ENG_CH1_003",
+      "i move my head": "TON_1_ENG_CH1_003",
+      "shake my head": "TON_1_ENG_CH1_003"
+    },
+    "eye": {
+      "which part helps me see": "TON_1_ENG_CH1_004",
+      "i see with": "TON_1_ENG_CH1_004",
+      "what do i use to see": "TON_1_ENG_CH1_004",
+      "eyes": "TON_1_ENG_CH1_004"
+    },
+    "ear": {
+      "which part helps me hear": "TON_1_ENG_CH1_005",
+      "i hear with": "TON_1_ENG_CH1_005",
+      "what do i use to hear": "TON_1_ENG_CH1_005",
+      "ears": "TON_1_ENG_CH1_005"
+    },
+    "nose": {
+      "which part helps me smell": "TON_1_ENG_CH1_006",
+      "i smell with": "TON_1_ENG_CH1_006",
+      "what do i use to smell": "TON_1_ENG_CH1_006",
+      "nose": "TON_1_ENG_CH1_006"
+    },
+    "mouth": {
+      "which part helps me eat": "TON_1_ENG_CH1_007",
+      "i eat with": "TON_1_ENG_CH1_007",
+      "what do i use to talk": "TON_1_ENG_CH1_007",
+      "mouth": "TON_1_ENG_CH1_007"
+    }
+  }
+}
