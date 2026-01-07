@@ -1,1 +1,20 @@
-
+{
+  "lowercase": true,
+  "remove_stopwords": ["the","is","a","an","to","my","of","body"],
+  "synonyms": {
+    "helps me": "",
+    "part": "part",
+    "hear sounds": "hear",
+    "see things": "see",
+    "smell things": "smell",
+    "eat food": "eat",
+    "talking": "talk"
+  },
+  "rewrite_patterns": {
+    "which .* help.* hear.*": "which part helps me hear",
+    "which .* help.* see.*": "which part helps me see",
+    "which .* help.* walk.*": "which part helps me walk",
+    "which .* help.* smell.*": "which part helps me smell",
+    "which .* help.* eat.*": "which part helps me eat"
+  }
+}
