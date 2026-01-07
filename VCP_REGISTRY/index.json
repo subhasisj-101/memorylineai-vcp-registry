@@ -1,1 +1,9 @@
-
+{
+  "VCP_1_ENG_CH1_v1.0": {
+    "class": 1,
+    "subject": "English",
+    "chapter": "Two Little Hands",
+    "tons": 7,
+    "status": "LOCKED"
+  }
+}
