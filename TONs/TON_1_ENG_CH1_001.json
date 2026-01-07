@@ -1,1 +1,35 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_001",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Hand",
+  "atomic_concept": "We use our hands to clap.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "Hands help us clap and hold things.",
+    "concept": "We clap using our hands.",
+    "example": "I clap with my hands.",
+    "application": "Clap your hands two times."
+  },
+  "misconception_fit": [
+    "We do not clap with our legs.",
+    "Hands are not used to smell."
+  ],
+  "socratic_prompts": [
+    "Which body part do you use to clap?",
+    "Can you clap without using your hands?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Hands clap.",
+    "easy": "We clap with hands.",
+    "medium": "We use our hands to clap.",
+    "hard": "Hands help us clap and hold things.",
+    "master": "Hands are body parts used for clapping and holding objects."
+  },
+  "contextual_links": []
+}
