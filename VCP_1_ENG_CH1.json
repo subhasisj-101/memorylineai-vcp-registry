@@ -1,1 +1,23 @@
-
+{
+  "vcp_id": "VCP_1_ENG_CH1_v1.0",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "version": "1.0",
+  "status": "LOCKED",
+  "ton_sequence": [
+    "TON_1_ENG_CH1_001",
+    "TON_1_ENG_CH1_002",
+    "TON_1_ENG_CH1_003",
+    "TON_1_ENG_CH1_004",
+    "TON_1_ENG_CH1_005",
+    "TON_1_ENG_CH1_006",
+    "TON_1_ENG_CH1_007"
+  ],
+  "created_on": "2026-01-06",
+  "governance": {
+    "immutable": true,
+    "hallucination_risk": "zero",
+    "curriculum_bound": true
+  }
+}
