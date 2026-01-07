@@ -1,1 +1,37 @@
-
+{
+  "ton_id": "TON_1_ENG_CH1_004",
+  "class": 1,
+  "subject": "English",
+  "chapter": "Two Little Hands",
+  "concept_title": "Eye",
+  "atomic_concept": "We use our eyes to see.",
+  "source": {
+    "book": "Mridang – NCERT Class 1 English",
+    "chapter": "Two Little Hands",
+    "page": 8
+  },
+  "nested_learning": {
+    "intuition": "Eyes help us look at things.",
+    "concept": "We see using our eyes.",
+    "example": "I see the board with my eyes.",
+    "application": "Close your eyes and then open them."
+  },
+  "misconception_fit": [
+    "We do not see with our ears.",
+    "Eyes are not used to smell."
+  ],
+  "socratic_prompts": [
+    "Which body part helps you see?",
+    "Can you see when your eyes are closed?"
+  ],
+  "difficulty_modes": {
+    "very_easy": "Eyes see.",
+    "easy": "We see with eyes.",
+    "medium": "We use our eyes to see.",
+    "hard": "Eyes help us see things around us.",
+    "master": "Eyes are sense organs used for seeing."
+  },
+  "contextual_links": [
+    "TON_1_ENG_CH1_003"
+  ]
+}
